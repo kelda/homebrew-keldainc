@@ -3,5 +3,5 @@ Brew tap for the [`blimp` cli](https://kelda.io)
 
 ## Usage
 ```
-brew install kelda/kelda/blimp
+brew install kelda/tools/blimp
 ```
