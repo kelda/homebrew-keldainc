@@ -1,6 +1,6 @@
 class Blimp < Formula
-  version "0.13.7"
-  sha256 "59623cb94ad0d045a14883a077c7183eef1b906cee9c39d060f9de2e7849fe1e"
+  version "0.13.8"
+  sha256 "b273d05319ff494115a989eb8f4491a96b80de6ebb085aed594e31c9435e95df"
   desc "CLI for Kelda's Blimp (Docker Compose for the Cloud)"
   homepage "https://kelda.io"
   url "https://blimp-releases.s3-us-west-1.amazonaws.com/blimp-osx-#{version}"
